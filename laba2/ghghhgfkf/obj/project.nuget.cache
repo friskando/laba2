@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVrElIIIckY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\digma\\source\\repos\\ghghhgfkf\\ghghhgfkf\\ghghhgfkf.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\digma\\.nuget\\packages\\fsharp.core\\11.0.100\\fsharp.core.11.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
